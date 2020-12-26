@@ -1,1 +1,1 @@
-# backgammon_ending
+# backgammon_bearing_off
