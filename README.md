@@ -10,5 +10,15 @@ This project allows you get statistics about bearing off board (when all checker
 * Create dataset of random boards competing with each others to see the precent of each player to win under random dice.
 * create regression neural network to show the win percentage for any two given boards
 
-![stats of two boards](https://github.com/rotem154154/backgammon-bearing-off/blob/main/backgammon_stats.jpg)
 
+the neural net model can predict the percentage of the player to win in less then 1% accuracy.
+the input for the neural net can be either the two boards or the amount of movements for each player.
+
+<img src="https://github.com/rotem154154/backgammon-bearing-off/blob/main/backgammon_stats.jpg" width="400">
+
+
+The plot below shows the change of the percent of player 1 to win in change of amount of movements need to win by player 1,2
+The horizontal axis is the amount of movements needed by player 1 to win.
+The vertical axis is the amount of movements needed by player 2 to win.
+the color of the dots changes from blue to red if player 1 has more chances to win.
+<img src="https://github.com/rotem154154/backgammon-bearing-off/blob/main/2_players_winner_plot.png" width="400">
