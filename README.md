@@ -18,8 +18,8 @@ the input for the neural net can be either the two boards or the amount of movem
 
 
 
-
+<p>
 <img src="https://github.com/rotem154154/backgammon-bearing-off/blob/main/2_players_winner_plot.png">
-<p>The horizontal axis is the amount of movements needed by player 1 to win.
-The vertical axis is the amount of movements needed by player 2 to win.
+The horizontal axis is the amount of movements needed by player 1 to win.<br />
+The vertical axis is the amount of movements needed by player 2 to win.<br />
 The color of the dots changes from blue to red if player 1 has more chances to win.</p>
